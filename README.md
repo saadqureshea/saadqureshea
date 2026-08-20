@@ -1,7 +1,8 @@
-<h1 align="center">Hi, I'm Saad Qureshea 👋</h1>
+<h1 align="center">Hi, I'm Saad Qureshi 👋</h1>
 <h3 align="center">Full-Stack Developer & CS Student · Islamabad, Pakistan</h3>
 
 <p align="center">
+  <a href="https://saadqureshea.github.io"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/saadqureshea"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:saadqureshea123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
